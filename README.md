@@ -1,2 +1,2 @@
 # Projeto-next
-Primeiro projeto com Next.js+React
+Primeiro projeto com Next.js + React + styled components
